@@ -1,0 +1,16 @@
+{
+    "name": "josephus.ai-packages.example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ce554c6af5ee89f418ff65699d8d4427"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
