@@ -1,0 +1,15 @@
+{
+  "name": "com.josephus.ai-packages",
+  "version": "1.0.0",
+  "displayName": "AI Packages",
+  "description": "An AI system inspired by the Creation Engine's AI Packages system.",
+  "keywords": [
+    "ai",
+    "behaviour"
+  ],
+  "author": {
+    "name": "Josephus",
+    "url": "https://joeconswork.wordpress.com/"
+  },
+  "type": "tool"
+}
